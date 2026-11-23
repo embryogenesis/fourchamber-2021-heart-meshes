@@ -1,0 +1,266 @@
+{
+  "$comment": "Verbatim mirror. `md5` is as supplied by the source repository and is recorded for transport integrity only — it is not evidence of authenticity. Verify against `sha256`, which was computed locally from the downloaded bytes.",
+  "repo": "fourchamber-2021-heart-meshes",
+  "title": "Rodero et al. 2021 — virtual cohort of adult four-chamber heart meshes",
+  "repoDescription": "Virtual cohort of twenty adult four-chamber heart meshes from end-diastolic CT (tetrahedral VTK with fibre vectors and universal ventricular coordinates) — Rodero et al. 2021 — mirror of 10.5281/zenodo.4590294",
+  "sourceUrl": "https://doi.org/10.5281/zenodo.4590294",
+  "doi": "10.5281/zenodo.4590294",
+  "licence": "CC BY 4.0",
+  "spdxLicenceId": "CC-BY-4.0",
+  "attribution": "Rodero, Cristobal; Strocchi, Marina; Marciniak, Maciej; Longobardi, Stefano; Whitaker, John; O'Neill, Mark D.; Gillette, Karli; Augustin, Christoph; Plank, Gernot; Vigmond, Edward J.; Lamata, Pablo; Niederer, Steven A.",
+  "citation": "Rodero C, Strocchi M, Marciniak M, et al. Linking statistical shape models and simulated function in the healthy adult human heart. PLOS Computational Biology 17(4):e1008851 (2021), doi:10.1371/journal.pcbi.1008851. Data: Zenodo, doi:10.5281/zenodo.4590294.",
+  "modified": false,
+  "mirroredAt": "2026-11-23T17:14:14.177Z",
+  "sourceArticles": [
+    {
+      "id": 4590294,
+      "doi": "10.5281/zenodo.4590294",
+      "title": "Virtual cohort of adult healthy four-chamber heart meshes from CT images",
+      "licenceAtMirrorTime": "CC BY 4.0"
+    }
+  ],
+  "files": [
+    {
+      "path": "data/16.tar.gz",
+      "originalName": "16.tar.gz",
+      "articleId": 4590294,
+      "size": 74515001,
+      "sha256": "85ca99c11f0fb8ff38f9d59dfaa0cd1182827ac587edb66d73b331e9fc52058e",
+      "md5": "7ac94827d4e0ffa4bd60b2a1b270b2ca",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://zenodo.org/api/records/4590294/files/16.tar.gz/content"
+    },
+    {
+      "path": "data/20.tar.gz",
+      "originalName": "20.tar.gz",
+      "articleId": 4590294,
+      "size": 69594230,
+      "sha256": "348526bb6fcb91b2258a46b05dd49e87cc759ea7fdf05049e798bdbe091cc523",
+      "md5": "6dbfa0c7ec88d045fd0f38c997fb1667",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://zenodo.org/api/records/4590294/files/20.tar.gz/content"
+    },
+    {
+      "path": "data/15.tar.gz",
+      "originalName": "15.tar.gz",
+      "articleId": 4590294,
+      "size": 61946040,
+      "sha256": "59c8e095a3defadc7ec25cb84ad0de344beb55b262edc57c1c2327c714b6e977",
+      "md5": "d734e23870e0e4cc85285467f6357877",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://zenodo.org/api/records/4590294/files/15.tar.gz/content"
+    },
+    {
+      "path": "data/10.tar.gz",
+      "originalName": "10.tar.gz",
+      "articleId": 4590294,
+      "size": 96091485,
+      "sha256": "f5c130dfa2d7ef2e0dbf5af3ed101ba494ecc0bf18b262fa87750eb5bdc234f2",
+      "md5": "27651d985f2967042b2cebf993345264",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://zenodo.org/api/records/4590294/files/10.tar.gz/content"
+    },
+    {
+      "path": "data/11.tar.gz",
+      "originalName": "11.tar.gz",
+      "articleId": 4590294,
+      "size": 79554751,
+      "sha256": "eb3dfabe4c30a91e1437c3ebea68a0a8eddb3dd9b04c55bf8acaf46074c6548e",
+      "md5": "22ac3f1246e7d13af9becb4e8eff0bd3",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://zenodo.org/api/records/4590294/files/11.tar.gz/content"
+    },
+    {
+      "path": "data/12.tar.gz",
+      "originalName": "12.tar.gz",
+      "articleId": 4590294,
+      "size": 59543880,
+      "sha256": "31bf4de87f7b49c9193dc151668290b05382e5a62ecaa1a090eba3d9fd6fe454",
+      "md5": "696769149674e27f9d33fc0979b75aca",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://zenodo.org/api/records/4590294/files/12.tar.gz/content"
+    },
+    {
+      "path": "data/14.tar.gz",
+      "originalName": "14.tar.gz",
+      "articleId": 4590294,
+      "size": 94665116,
+      "sha256": "58302a951a46f8d8d2e8e13a93d9b2717f36ec8eb1a68562de8e74fd839e9322",
+      "md5": "6dcffc6e10e7f015d0ef1fe41561f8fd",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://zenodo.org/api/records/4590294/files/14.tar.gz/content"
+    },
+    {
+      "path": "data/13.tar.gz",
+      "originalName": "13.tar.gz",
+      "articleId": 4590294,
+      "size": 84853444,
+      "sha256": "62b32451464bb173aa6616169e16c0a1caeca2a395ccfaad75af9e492e529ce6",
+      "md5": "8c0ea2f240e8c738960c04e994bb8923",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://zenodo.org/api/records/4590294/files/13.tar.gz/content"
+    },
+    {
+      "path": "data/19.tar.gz",
+      "originalName": "19.tar.gz",
+      "articleId": 4590294,
+      "size": 70424322,
+      "sha256": "e763e5683da4a48bd8944f794f6cbccd3949109c713e258ebfae53033ffda043",
+      "md5": "73ebd0b20ac2c53fa5a4430e180693b5",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://zenodo.org/api/records/4590294/files/19.tar.gz/content"
+    },
+    {
+      "path": "data/simulation_output.csv",
+      "originalName": "simulation_output.csv",
+      "articleId": 4590294,
+      "size": 4028,
+      "sha256": "3f59ea2e6388aa370efe9046ecd5b4fd8bee87037aa904f45a80356f3932edcd",
+      "md5": "9a9605c30adc02ce33e330c9ec55e86a",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://zenodo.org/api/records/4590294/files/simulation_output.csv/content"
+    },
+    {
+      "path": "data/modes_weights.csv",
+      "originalName": "modes_weights.csv",
+      "articleId": 4590294,
+      "size": 4402,
+      "sha256": "929efd810f3e40be7d29b2f2da27707c393140735d9a4e364010c24dc1a3a04d",
+      "md5": "51690579387fa6dc3435e172f29e6a43",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://zenodo.org/api/records/4590294/files/modes_weights.csv/content"
+    },
+    {
+      "path": "data/18.tar.gz",
+      "originalName": "18.tar.gz",
+      "articleId": 4590294,
+      "size": 53661258,
+      "sha256": "b50919a711dc3914cc0a4dd9cabc19679a9f36be9ac6eb26a23ca6799f501720",
+      "md5": "004856c5ebb3f150a87147370b348d6c",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://zenodo.org/api/records/4590294/files/18.tar.gz/content"
+    },
+    {
+      "path": "data/17.tar.gz",
+      "originalName": "17.tar.gz",
+      "articleId": 4590294,
+      "size": 70088176,
+      "sha256": "a6aac90fbdddf534f0f009c0b27b2c505ee63e7364673b4366d48b0123d9ff32",
+      "md5": "f5eeefca986d8b4849ab263f365ff01e",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://zenodo.org/api/records/4590294/files/17.tar.gz/content"
+    },
+    {
+      "path": "data/06.tar.gz",
+      "originalName": "06.tar.gz",
+      "articleId": 4590294,
+      "size": 63801959,
+      "sha256": "ed465189d3c35acd586b9ce3fd1b7bfbe9aa11202df14bfa253ab53a0cc27038",
+      "md5": "a81424b8955b418e70b2909fcdf5a7bd",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://zenodo.org/api/records/4590294/files/06.tar.gz/content"
+    },
+    {
+      "path": "data/05.tar.gz",
+      "originalName": "05.tar.gz",
+      "articleId": 4590294,
+      "size": 54852380,
+      "sha256": "1c24680bd2dedc1fed876dc4dd37052d0986235f0a8c0742a57d983c27db7b1f",
+      "md5": "1457ccc773e26b42ef2dafe399e6c2e1",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://zenodo.org/api/records/4590294/files/05.tar.gz/content"
+    },
+    {
+      "path": "data/01.tar.gz",
+      "originalName": "01.tar.gz",
+      "articleId": 4590294,
+      "size": 91057486,
+      "sha256": "a89f4c667d56e49e368b7bab8ba67e7eb42def0aa076a700ad82487e98a18aaf",
+      "md5": "12df3f7f99fa8d2784d87f32ea98de71",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://zenodo.org/api/records/4590294/files/01.tar.gz/content"
+    },
+    {
+      "path": "data/02.tar.gz",
+      "originalName": "02.tar.gz",
+      "articleId": 4590294,
+      "size": 103184737,
+      "sha256": "a9c2e24928770473630ad226c6f3759cd0fd4bc68241bf7f83508964b06756eb",
+      "md5": "50772706775d3e2a1ea90a984e799ac2",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://zenodo.org/api/records/4590294/files/02.tar.gz/content"
+    },
+    {
+      "path": "data/03.tar.gz",
+      "originalName": "03.tar.gz",
+      "articleId": 4590294,
+      "size": 85895514,
+      "sha256": "5c21bd551e365f1f3817bbd8413710364253de1ab027d46c7993318c7add28d6",
+      "md5": "068522705fbd325c82b8694de02c3c74",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://zenodo.org/api/records/4590294/files/03.tar.gz/content"
+    },
+    {
+      "path": "data/07.tar.gz",
+      "originalName": "07.tar.gz",
+      "articleId": 4590294,
+      "size": 61409589,
+      "sha256": "d4a0b430694d21ecb0acfe48f9c5c7fd0f54e03e4f833a7ed0db5ad046e0c5a2",
+      "md5": "4853411c3ebea9271ac35b8385137575",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://zenodo.org/api/records/4590294/files/07.tar.gz/content"
+    },
+    {
+      "path": "data/08.tar.gz",
+      "originalName": "08.tar.gz",
+      "articleId": 4590294,
+      "size": 79958060,
+      "sha256": "7d0e737462107a5831214750c37b40dcc4add5a3e6ed9ec993cb642ae3514708",
+      "md5": "4b8f883766e3387b1e8e65ef975e35d0",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://zenodo.org/api/records/4590294/files/08.tar.gz/content"
+    },
+    {
+      "path": "data/04.tar.gz",
+      "originalName": "04.tar.gz",
+      "articleId": 4590294,
+      "size": 102605904,
+      "sha256": "c7fc82b239d8e64e6a52b96c402a06ac64dc26098ccf364bcc39ce7ce9a7d44e",
+      "md5": "02e3f9b60f99d85f3372ce903efc2ab0",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://zenodo.org/api/records/4590294/files/04.tar.gz/content"
+    },
+    {
+      "path": "data/09.tar.gz",
+      "originalName": "09.tar.gz",
+      "articleId": 4590294,
+      "size": 74155948,
+      "sha256": "4a227cf5e27680c1d4d32402e2a3b85f3d87c26881251e07467113629b8a508f",
+      "md5": "630c6322918571b9e930aa43430fe017",
+      "md5MatchedFigshare": true,
+      "releaseAsset": false,
+      "downloadUrl": "https://zenodo.org/api/records/4590294/files/09.tar.gz/content"
+    }
+  ]
+}
